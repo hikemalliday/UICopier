@@ -1,34 +1,6 @@
 # uicopier
 
-An Electron application with React
+UI Copy tool for Everquest.
+Built with Electron.
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+[image](https://cdn.discordapp.com/attachments/1157561149496246293/1249204986152489001/image.png?ex=6666744d&is=666522cd&hm=7a06602b6e8deb148ade5ba8df5f9e72186a9935d9e9be222b008d56a1bbd804&)
