@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header-main-container {
+  background-color: #222f3e;
+  height: 45px;
+  justify-content: space-between;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.form-main-container {
+  color: white;
+}
+
+.inputs-container {
+  display: flex;
+}
